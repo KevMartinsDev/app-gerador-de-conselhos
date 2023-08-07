@@ -19,7 +19,8 @@ JavaScript (Ainda não emplementado)
 ## Demonstração
 
 Você pode visualizar a demonstração deste projeto através do seguinte link clicando "aqui"
-<p align="center">
+
 #### Imagem Mobile
-</p>
+<p align="center">
 <img src="design/mobile.png" alt="Design Mobile">
+</p>
