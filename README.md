@@ -3,9 +3,11 @@
 Bem-vindo ao Gerador de Conselhos! Este projeto simples consiste em um gerador que oferece conselhos aleatórios toda vez que você pressiona um botão. É uma ótima maneira de praticar suas habilidades de manipulação da interação com JavaScript.
 
 #### Imagem Desktop
+
 <p align="center">
 <img src="design/desktop.png" alt="Design Desktop">
 </p>
+
 ## Funcionalidades
 
 Geração de conselhos aleatórios ao pressionar o botão.
